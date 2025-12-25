@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 花瓣 -->
+  <ellipse cx="100" cy="60" rx="25" ry="40" fill="#FF69B4" transform="rotate(0 100 100)" />
+  <ellipse cx="100" cy="60" rx="25" ry="40" fill="#FF69B4" transform="rotate(45 100 100)" />
+  <ellipse cx="100" cy="60" rx="25" ry="40" fill="#FF69B4" transform="rotate(90 100 100)" />
+  <ellipse cx="100" cy="60" rx="25" ry="40" fill="#FF69B4" transform="rotate(135 100 100)" />
+  <ellipse cx="100" cy="60" rx="25" ry="40" fill="#FF69B4" transform="rotate(180 100 100)" />
+  <ellipse cx="100" cy="60" rx="25" ry="40" fill="#FF69B4" transform="rotate(225 100 100)" />
+  <ellipse cx="100" cy="60" rx="25" ry="40" fill="#FF69B4" transform="rotate(270 100 100)" />
+  <ellipse cx="100" cy="60" rx="25" ry="40" fill="#FF69B4" transform="rotate(315 100 100)" />
+  
+  <!-- 花心 -->
+  <circle cx="100" cy="100" r="25" fill="#FFD700" />
+  
+  <!-- 茎 -->
+  <rect x="95" y="100" width="10" height="80" fill="#228B22" />
+  
+  <!-- 叶子 -->
+  <ellipse cx="80" cy="140" rx="20" ry="10" fill="#228B22" transform="rotate(-30 80 140)" />
+  <ellipse cx="120" cy="150" rx="20" ry="10" fill="#228B22" transform="rotate(30 120 150)" />
+</svg>
